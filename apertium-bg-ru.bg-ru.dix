@@ -38,20 +38,20 @@
   </sdefs>
   <section id="main" type="standard">
 
-    <!-- Prepositions -->
+    <!-- SECTION: Prepositions -->
 
     <e c="  0"><p><l>на<s n="pr"/></l><r>на<s n="pr"/></r></p></e>
     <e c="  0"><p><l>в<s n="pr"/></l><r>в<s n="pr"/></r></p></e>
     <e c="  0"><p><l>с<s n="pr"/></l><r>с<s n="pr"/></r></p></e>
 
-    <!-- Conjunctions -->
+    <!-- SECTION: Conjunctions -->
 
     <e><p><l>и<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
     <e><p><l>или<s n="cnjcoo"/></l><r>или<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>ако<s n="cnjsub"/></l><r>если<s n="cnjsub"/></r></p></e>
 
-    <!-- Pronouns -->
+    <!-- SECTION: Pronouns -->
 
     <e><p><l>free<s n="prn"/><s n="pers"/><s n="p1"/><s n="mfn"/></l><r>prpers<s n="prn"/><s n="p1"/><s n="mf"/></r></p></e>
     <e><p><l>free<s n="prn"/><s n="pers"/><s n="p2"/><s n="mfn"/></l><r>prpers<s n="prn"/><s n="p2"/><s n="mf"/></r></p></e>
@@ -64,11 +64,11 @@
 
     <e><p><l>кой<s n="prn"/><s n="itg"/></l><r>кто<s n="prn"/><s n="itg"/><s n="aa"/></r></p></e>
 
-    <!-- Determiners -->
+    <!-- SECTION: Determiners -->
 
     <e><p><l>този<s n="det"/><s n="dem"/></l><r>этот<s n="det"/><s n="dem"/></r></p></e>
 
-    <!-- Numerals -->
+    <!-- SECTION: Numerals -->
 
     <e><p><l>едно<s n="num"/></l><r>один<s n="num"/></r></p></e>
     <e><p><l>две<s n="num"/></l><r>два<s n="num"/></r></p></e>
@@ -81,7 +81,7 @@
     <e><p><l>девет<s n="num"/></l><r>девять<s n="num"/></r></p></e>
     <e><p><l>десет<s n="num"/></l><r>десять<s n="num"/></r></p></e>
 
-    <!-- Nouns -->
+    <!-- SECTION: Nouns -->
 
     <e c="  0"><p><l>абанос<s n="n"/><s n="m"/></l><r>черное_дерево<s n="n"/><s n="m"/></r></p></e>
     <e c="  0"><p><l>абдикация<s n="n"/><s n="f"/></l><r>абдикация<s n="n"/><s n="f"/></r></p></e>
@@ -1173,7 +1173,7 @@
     <e c="  0"><p><l>ниво<s n="n"/><s n="nt"/></l><r>уровень<s n="n"/><s n="m"/></r></p></e>
     <e c="  0"><p><l>мнозинство<s n="n"/><s n="nt"/></l><r>большинство<s n="n"/><s n="nt"/></r></p></e>
 
-    <!-- Proper nouns -->
+    <!-- SECTION: Proper nouns -->
 
     <e><p><l>Австралия<s n="np"/><s n="top"/><s n="f"/></l><r>Австралия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Австрия<s n="np"/><s n="top"/><s n="f"/></l><r>Австрия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -1346,7 +1346,7 @@
     <e><p><l>Ямбол<s n="np"/><s n="top"/><s n="m"/></l><r>Ямбол<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Япония<s n="np"/><s n="top"/><s n="f"/></l><r>Япония<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
-    <!-- Adjectives -->
+    <!-- SECTION: Adjectives -->
 
     <e c="  0"><p><l>бял<s n="adj"/></l><r>белый<s n="adj"/></r></p></e>
     <e c="  0"><p><l>голям<s n="adj"/></l><r>большой<s n="adj"/></r></p></e>
@@ -1579,7 +1579,7 @@
 
 
 
-    <!-- Adverbs -->
+    <!-- SECTION: Adverbs -->
 
     <e c="  0"><p><l>къде<s n="adv"/><s n="itg"/></l><r>где<s n="adv"/><s n="itg"/></r></p></e>
     <e c="  0"><p><l>кога<s n="adv"/><s n="itg"/></l><r>когда<s n="adv"/><s n="itg"/></r></p></e>
@@ -1796,7 +1796,7 @@
 
 
 
-    <!-- Verbs -->
+    <!-- SECTION: Verbs -->
 
     <e><p><l>е<s n="vbser"/></l><r>быть<s n="vbser"/></r></p></e>
     <e><p><l>има<s n="vbhaver"/></l><r>иметь<s n="vbhaver"/></r></p></e>
@@ -2037,11 +2037,11 @@
     <e c="  0"><p><l>предотврати<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>предотвратить<s n="vblex"/><s n="perf"/></r></p></e>
     <e c="  0"><p><l>убеди<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>убедить<s n="vblex"/><s n="perf"/></r></p></e>
 
-    <!-- Interjections -->
+    <!-- SECTION: Interjections -->
 
     <e c="  0"><p><l>да<s n="ij"/></l><r>да<s n="ij"/></r></p></e>
 
-    <!-- Punctuation -->
+    <!-- SECTION: Punctuation -->
 
     <e><re>[.\?;:!·]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
