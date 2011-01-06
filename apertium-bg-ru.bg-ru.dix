@@ -158,7 +158,6 @@
     <e c="  0"><p><l>с<b/>продължителност<s n="pr"/></l><r>на<b/>протяжении<s n="pr"/></r></p></e>
     <e slr="1"><p><l>с<b/>продължителност<s n="pr"/></l><r>в<b/>продолжение<s n="pr"/></r></p></e>
 
-
     <!-- SECTION: Conjunctions -->
 
     <e c="  0"><p><l>и<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
@@ -2235,7 +2234,7 @@
     <e c="  0"><p><l>остро<s n="adv"/></l><r>остро<s n="adv"/></r></p></e>
     <e c="  0"><p><l>съдебно<s n="adv"/></l><r>судебно<s n="adv"/></r></p></e>
     <e c="  0"><p><l>отделно<s n="adv"/></l><r>отдельно<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>все пак<s n="adv"/></l><r>всё-таки<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>все<b/>пак<s n="adv"/></l><r>всё-таки<s n="adv"/></r></p></e>
     <e c="  0"><p><l>двудневно<s n="adv"/></l><r>двухдневный<s n="adv"/></r></p></e>
     <e c="  0"><p><l>северно<s n="adv"/></l><r>северно<s n="adv"/></r></p></e>
     <e c="  0"><p><l>винаги<s n="adv"/></l><r>всегда<s n="adv"/></r></p></e>
@@ -2278,11 +2277,11 @@
     <e c="  0"><p><l>служебно<s n="adv"/></l><r>служебно<s n="adv"/></r></p></e>
     <e c="  0"><p><l>последно<s n="adv"/></l><r>напоследок<s n="adv"/></r></p></e>
     <e c="  0"><p><l>коалиционно<s n="adv"/></l><r>коалиционно<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>за пръв път<s n="adv"/></l><r>впервые<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>за<b/>пръв<b/>път<s n="adv"/></l><r>впервые<s n="adv"/></r></p></e>
     <e c="  0"><p><l>двойно<s n="adv"/></l><r>вдвойне<s n="adv"/></r></p></e>
     <e c="  0"><p><l>редовно<s n="adv"/></l><r>регулярно<s n="adv"/></r></p></e>
     <e c="  0"><p><l>абсолютно<s n="adv"/></l><r>абсолютно<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>у дома<s n="adv"/></l><r>дома<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>у<b/>дома<s n="adv"/></l><r>дома<s n="adv"/></r></p></e>
     <e c="  0"><p><l>насочено<s n="adv"/></l><r>направлено<s n="adv"/></r></p></e>
     <e c="  0"><p><l>навреме<s n="adv"/></l><r>вовремя<s n="adv"/></r></p></e>
     <e c="  0"><p><l>културно<s n="adv"/></l><r>культурно<s n="adv"/></r></p></e>
@@ -2362,7 +2361,7 @@
     <e c="  0"><p><l>традиционно<s n="adv"/></l><r>традиционно<s n="adv"/></r></p></e>
     <e c="  0"><p><l>правилно<s n="adv"/></l><r>правильно<s n="adv"/></r></p></e>
     <e c="  0"><p><l>относително<s n="adv"/></l><r>относительно<s n="adv"/></r></p></e>
-    <e c="  0"><p><l>на сто<s n="adv"/></l><r>процентов<s n="adv"/></r></p></e>
+    <e c="  0"><p><l>на<b/>сто<s n="adv"/></l><r>процентов<s n="adv"/></r></p></e>
     <e c="  0"><p><l>дадено<s n="adv"/></l><r>дадено<s n="adv"/></r></p></e>
     <e c="  0"><p><l>условно<s n="adv"/></l><r>условно<s n="adv"/></r></p></e>
     <e c="  0"><p><l>трайно<s n="adv"/></l><r>постоянно,трайно<s n="adv"/></r></p></e>
@@ -2997,7 +2996,7 @@
     <e c="  0"><p><l>дължи<s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>держать<s n="vblex"/><s n="imperf"/></r></p></e>
     <e c="  0"><p><l>изложи<s n="vblex"/><s n="perf"/><s n="iv"/></l><r>выставлять<s n="vblex"/><s n="perf"/></r></p></e>
 
-	<e c="  0"><p><l>налага<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>накладывать<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e c="  0"><p><l>налага<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>накладывать<s n="vblex"/><s n="imperf"/></r></p></e>
     <e c="  0"><p><l>отрича<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>отрицать<s n="vblex"/><s n="imperf"/></r></p></e>
     <e c="  0"><p><l>свика<s n="vblex"/><s n="perf"/><s n="tv"/></l><r>вызвать<s n="vblex"/><s n="perf"/></r></p></e>
     <e c="  0"><p><l>фокусира<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>фокусировать<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -3397,8 +3396,6 @@
     <e c="  0"><p><l>променя<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>менять<s n="vblex"/><s n="imperf"/></r></p></e>
     <e c="  0"><p><l>придава<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>придавать<s n="vblex"/><s n="imperf"/></r></p></e> 
     <e c="  0"><p><l>оформя<s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>оформлять<s n="vblex"/><s n="imperf"/></r></p></e>
-
-
 
     <!-- SECTION: Interjections -->
 
